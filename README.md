@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### 🙌 Hello there! I'm Renan 🙌
 AKA, Rebsega😁
-<img align="right" alt="streak" src="http://github-readme-streak-stats.herokuapp.com?user=Rebsega&hide_border=true"/>
+<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" />
 📫 How to reach me ...
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-barbieri-segamarchi/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
