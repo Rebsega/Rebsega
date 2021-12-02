@@ -21,11 +21,11 @@ AKA, Rebsega😁
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:renan.barbieri.s@usp.br)<br><br>
 
-🔭I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the CTI - Colégio Técnico Industrial - prof. Isáac portal Roldan UNESP Bauru.<br><br>
-🤔I'm actually searching for ways to improve my knowledge on the computation universe in general, mainly programming itself.<br><br>
-🤔Theferore, I'd appreciate a lot any internship oportunity.<br><br>
-🎧Love listening to music!<br><br>
-⚡Cool stuff: In the future, I'm planning to learn more about game development, 'cause it's amazing!<br><br>
+- 🔭I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the CTI - Colégio Técnico Industrial - prof. Isáac portal Roldan UNESP Bauru.<br><br>
+- 🤔I'm actually searching for ways to improve my knowledge on the computation universe in general, mainly programming itself.<br><br>
+- 🤔Theferore, I'd appreciate a lot any internship oportunity.<br><br>
+- 🎧Love listening to music!<br><br>
+- ⚡Cool stuff: In the future, I'm planning to learn more about game development, 'cause it's amazing!<br><br>
 
 ### I already worked with:
 <p align="left">
