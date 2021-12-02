@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 ### 🙌 Hello there! I'm Renan 🙌
 AKA, Rebsega😁
 <img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
-📫 How to reach me ...<br>
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-barbieri-segamarchi/)
+📫 How to reach me ...<br><br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-barbieri-segamarchi/)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:renan.barbieri.s@usp.br)<br><br>
 
