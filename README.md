@@ -21,7 +21,7 @@ AKA, Rebsega😁
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:renan.barbieri.s@usp.br)<br><br>
 
-- 🔭 I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br">CTI - Colégio Técnico Industrial - prof. Isáac portal Roldan UNESP Bauru.</a><br><br>
+- 🔭 I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br">CTI - Colégio Técnico Industrial UNESP Bauru.</a><br><br>
 - 🤔 I'm actually searching for ways to improve my knowledge on the computation universe in general, mainly programming itself.<br><br>
 - 🤔 Theferore, I'd appreciate a lot any internship oportunity.<br><br>
 - 🎧 Love listening to music!<br><br>
