@@ -39,5 +39,7 @@ AKA, Rebsega😁
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="25" height="25"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="r" width="25" height="25"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="vue" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS" width="25" height="25"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" alt="Java Spring" width="25" height="25"/>
 </p>
 
