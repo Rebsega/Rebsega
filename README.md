@@ -34,7 +34,7 @@ AKA, Rebsega (or even Gru)😁
 <code><img height="30" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="25" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="20" />  </code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="25" />  </code>
-<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS" width="20" /></code>  <br>
+<code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularJS" width="25" /></code>  <br>
 <!------------------------------------------------------------------------------------------------------------------------------------------------------------->
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="25" /></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="25" /></code>
