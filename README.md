@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:
+# 💫 About Me:<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
 🔭 I'm an undergraduate student in Biomedical Informatics, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the CTI - Colégio Técnico Industrial UNESP Bauru.<br><br>🤗 Now discovering the beautiful world of backend.<br><br>🎧 Love listening to music!<br><br>⚡ Cool stuff: In the future, I'm planning to learn more about game development, 'cause it's amazing!
-<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/renan-barbieri-segamarchi) 
