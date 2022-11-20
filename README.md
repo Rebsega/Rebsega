@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 🔭 I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br"><b>CTI - Colégio Técnico Industrial UNESP Bauru.</b></a><br><br>🤗 Now discovering the beautiful world of backend.<br><br>🎧 Love listening to music!<br><br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/renan-barbieri-segamarchi) 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-barbieri-segamarchi/)<br>
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ](mailto:renan.barbieri.s@usp.br)<br><br>
 
@@ -27,6 +27,3 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Rebsega&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rebsega&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebsega&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
