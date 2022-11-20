@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
-🔭 I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br"><b>CTI - Colégio Técnico Industrial UNESP Bauru.</b></a><br><br>🤗 Now discovering the beautiful world of backend.<br><br>🎧 Love listening to music!<br><br>
+🔭 I'm an undergraduate student in <b><a href="http://ibm.fmrp.usp.br" target="_blank">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br" target="_blank"><b>CTI - Colégio Técnico Industrial UNESP Bauru.</b></a><br><br>🤗 Now discovering the beautiful world of backend.<br><br>🎧 Love listening to music!<br><br>
 
 ## 🌐 Socials:
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/renan-barbieri-segamarchi/)<br>
