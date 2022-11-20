@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # 💫 About Me:
 🔭 I'm an undergraduate student in Biomedical Informatics, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the CTI - Colégio Técnico Industrial UNESP Bauru.<br><br>🤗 Now discovering the beautiful world of backend.<br><br>🎧 Love listening to music!<br><br>⚡ Cool stuff: In the future, I'm planning to learn more about game development, 'cause it's amazing!
-
+<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/renan-barbieri-segamarchi) 
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=Rebsega&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Rebsega&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rebsega&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Rebsega&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Rebsega&icon=0&color=0)](https://visitcount.itsvg.in)
