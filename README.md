@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 💫 About Me:<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
-🔭 Graduated in <b><a href="http://ibm.fmrp.usp.br" target="_blank">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br" target="_blank"><b>CTI - Colégio Técnico Industrial UNESP Bauru.</b></a><br><br> 
+# 🧑‍💻 About Me:<img align="right" vertical-align="center" src="https://komarev.com/ghpvc/?username=Rebsega" alt="Rebsega" /><br>
+🔬 Graduated in <b><a href="http://ibm.fmrp.usp.br" target="_blank">Biomedical Informatics</a></b>, at FMRP USP (Faculdade de Medicina de Ribeirão Preto), and technician in IT, graduated by the <a href="https://cti.feb.unesp.br" target="_blank"><b>CTI - Colégio Técnico Industrial UNESP Bauru.</b></a><br><br> 
 🖥️ Java developer at <b><a href="https://www.witzler.com.br/" target="_blank">Witzler | Ultragaz</a></b><!-- at <b><a href="https://construconnect.com.br/" target="_blank">ConstruConnect Tecnologias</a></b>-->.<br><br>🎧 Love listening to music!<br><br>
 
 ## 🌐 Socials:
